@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AbdulghaffarOla
+-My first readme.
+👋 Hi, I’m @AbdulghaffarOla
 - 👀 I’m interested in ...coding and learning programming languages
 - 🌱 I’m currently learning at alx software engineering program
 - 💞️ I’m looking to collaborate on delovoping softwares 
